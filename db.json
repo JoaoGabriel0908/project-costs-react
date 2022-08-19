@@ -1,0 +1,106 @@
+{
+  "projects": [
+    {
+      "name": "João Gabriel",
+      "budget": "20",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "costs": 0,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "1",
+          "description": "tttttt",
+          "id": "502eca06-1b66-46f2-9b08-a8d348ecff15"
+        },
+        {
+          "name": "teste",
+          "cost": "1",
+          "description": "tttttt",
+          "id": "502eca06-1b66-46f2-9b08-a8d348ecff15"
+        },
+        {
+          "name": "teste",
+          "cost": "1",
+          "description": "tttttt",
+          "id": "502eca06-1b66-46f2-9b08-a8d348ecff15"
+        },
+        {
+          "name": "teste",
+          "cost": "155555",
+          "description": "tttttt",
+          "id": "def90375-b266-4633-9c6a-a3e98775c6e7"
+        },
+        {
+          "name": "João Gabriel Costa Flor",
+          "cost": "4",
+          "description": "tttttt",
+          "id": "80921955-7d78-4d8c-9a47-d494c7ad1c0b"
+        },
+        {
+          "name": "João Gabriel Costa Flor",
+          "cost": "4",
+          "description": "tttttt",
+          "id": "80921955-7d78-4d8c-9a47-d494c7ad1c0b"
+        },
+        {
+          "name": "Rachi One Page",
+          "cost": "7",
+          "description": "tttttt",
+          "id": "2cf9afec-26c0-4a18-ae6d-22799cd91c30"
+        },
+        {
+          "name": "João Gabriel",
+          "cost": "9",
+          "description": "tttttt",
+          "id": "2d972bf5-dde0-4892-a970-aae37bb14d8a"
+        }
+      ],
+      "id": 1,
+      "cost": null
+    },
+    {
+      "name": "Rachi One Page",
+      "budget": "222",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "costs": 0,
+      "services": [
+        {
+          "name": "Cybersecurity Essentials",
+          "cost": "2",
+          "description": "tttttt",
+          "id": "f33ccdbf-3002-4264-9681-7f09102bf0db"
+        }
+      ],
+      "id": 2,
+      "cost": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Requisitos"
+    }
+  ]
+}
